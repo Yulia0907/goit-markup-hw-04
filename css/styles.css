@@ -336,7 +336,7 @@ body {
     fill: var(--brand-btn-background); 
 }
 .clients-item:hover, .clients-item:focus {
-    border: 1px solid var(--brand-btn-background);
+    border-color: var(--brand-btn-background);
 }
 
 
