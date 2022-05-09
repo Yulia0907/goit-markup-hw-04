@@ -375,11 +375,11 @@ body {
 }
 .container-footer {
     display: flex;
-    align-items: center;
+    justify-content: flex-start;
+    align-items: baseline;
 }
 .foot-social {
     margin-left: 70px;
-    margin-top: -40px;
 }
 .social-link.f {
     color: var(--logo-color);
